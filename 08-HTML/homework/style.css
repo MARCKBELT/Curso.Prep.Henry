@@ -1,0 +1,23 @@
+h1{
+    background-color: chartreuse;
+    color: rgb(235, 17, 35);
+
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+
+    height: 730px;
+    width: 500px;
+    background-color: rgb(57, 243, 181);
+    padding: 50px;
+    border: 5px rgb(128, 12, 236)solid;
+    color: rgb(235, 17, 35);
+    font-size: 20px;
+   
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
