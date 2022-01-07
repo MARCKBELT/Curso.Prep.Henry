@@ -1,6 +1,7 @@
 h1{
-    background-color: chartreuse;
+    background-color: chartreuse ;
     color: rgb(235, 17, 35);
+    
 
 }
 img{
@@ -20,4 +21,14 @@ img{
 #spanId{
     font-size: 18px;
     margin: 50px;
+    text-align: center;
 }
+.div{
+    width: 550px; margin: 0 auto;
+}
+#cuerpo{
+    width: 550px; margin: 0 auto; 
+    background-image: url("https://data2.1freewallpapers.com/download/cutlery-tape-fork-2880x1620.jpg");
+    text-align: center;
+}
+
